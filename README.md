@@ -43,7 +43,7 @@ ollama pull llama3
 ### 3. Clone and install dependencies
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/second-brain.git
+git clone https://github.com/jarrettb/second-brain.git
 cd second-brain
 pip3 install -r requirements.txt
 ```
